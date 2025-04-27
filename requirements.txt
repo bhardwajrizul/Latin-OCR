@@ -1,0 +1,9 @@
+tk
+Pillow
+opencv-python
+pytesseract
+deep-translator
+langdetect
+numpy
+fpdf
+python-docx
